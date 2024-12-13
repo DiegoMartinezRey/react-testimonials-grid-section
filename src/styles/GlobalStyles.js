@@ -24,4 +24,8 @@ export const GlobalStyles = createGlobalStyle`
         color: inherit;
     }
 
+    p,h1,h2,h3{
+        margin: 0;
+    }
+
 `;
